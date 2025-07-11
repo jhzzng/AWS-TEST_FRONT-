@@ -1,0 +1,26 @@
+h2 {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    width: 450px;
+}
+
+.td_left {
+    width: 150px;
+    background: orange;
+}
+
+.td_right {
+    width: 300px;
+    background: skyblue;
+}
+
+#commandCell {
+    text-align: center;
+}
+
+#content {
+    height: 200px;
+}

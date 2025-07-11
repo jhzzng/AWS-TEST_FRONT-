@@ -1,0 +1,35 @@
+h2,
+form {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    width: 800px;
+}
+
+#tr_top {
+    background: orange;
+    text-align: center;
+}
+
+#emptyArea {
+    margin: auto;
+    width: 800px;
+    text-align: center;
+}
+
+#emptyArea a {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-decoration: none;
+}
+
+#emptyArea .btn {
+    background: lightgray;
+}
+
+#emptyArea .select {
+    background: lightblue;
+}

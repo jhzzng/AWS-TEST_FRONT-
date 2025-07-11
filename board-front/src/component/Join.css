@@ -1,0 +1,10 @@
+.center {
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    border: 1px solid;
+    width: 330px;
+    padding: 10px;
+}

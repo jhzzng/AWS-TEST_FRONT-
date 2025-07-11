@@ -1,0 +1,14 @@
+.center {
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    border: 1px solid;
+    width: 310px;
+    padding: 10px;
+}
+
+.loginTable {
+    width: 300px;
+}

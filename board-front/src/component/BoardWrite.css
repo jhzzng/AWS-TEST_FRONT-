@@ -1,0 +1,17 @@
+h2,
+#commandCell {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    width: 450px;
+}
+
+.td_left {
+    background: orange;
+}
+
+.td_right {
+    background: skyblue;
+}
